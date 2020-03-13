@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Log</string>
+    <string name="Title1">Title 1</string>
+    <string name="Description1">Descrip 1</string>
+    <string name="Descript2">Descript 2</string>
+    <string name="logEventButton">Log w.\ndescripton</string>
+    <string name="Title2">Title 2</string>
+    <string name="Title3">Title 3</string>
+    <string name="Descript3">Description 3</string>
+    <string name="ViewEventLogButton">View Log</string>
+    <string name="EditEventButton">Edit Event</string>
+    <string name="EventCreatorHint">Input eventname, ex: Event number 1</string>
+    <string name="CreateEventButton">Create Event</string>
+    <string name="LoggedEventButton">Remove</string>
+    <string name="EditEventTextVIew">Here you can edit your alreddy create events, however this will not change the text on events logged.</string>
+    <string name="CreateEventTextView">Here you can create new events, just type in what you want you event to be called and click the Create Event Button</string>
+    <string name="DeleteCreatedEventsButton">Delete All Events</string>
+    <string name="MainActivityText">Click the grey text box to log the event without a description.</string>
+    <string name="FilterButtonText">Filter events</string>
+    <string name="FilterDateExplain">Here you can choose to only include events in a specific date span.</string>
+    <string name="FilterResetDateButton">Reset Date</string>
+    <string name="StartDateText">Start Date:</string>
+    <string name="EndDateText">End Date:</string>
+    <string name="ActivateFilterButton">Activate Filter</string>
+</resources>
