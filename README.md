@@ -4,3 +4,6 @@ This app allows of logging of user-created events with a simple click, optionall
 
 This was my first Android project which I made for a personal project.
 
+https://github.com/FrozenText/Event-Logger/blob/master/Main%20Screen.png
+
+https://github.com/FrozenText/Event-Logger/blob/master/Event%20Log.png
